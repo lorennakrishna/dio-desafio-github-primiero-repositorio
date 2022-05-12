@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/Github da DIO :thinking:
-Desafio criado para o Desafio de Projeto
+Desafio criado para familiarização
 
 ## Proposta do Desafio
 Reforçar o seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
