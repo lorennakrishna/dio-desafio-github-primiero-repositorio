@@ -70,3 +70,8 @@ git add -A
 git commit -m ""
 
 git push origin main 
+
+### Observação sobre o curso
+Ótimo primeiro contato com o projeto e a plataforma.
+
+[Livro para aprofundamento](https://www.casadocodigo.com.br/pages/sumario-git-github)
