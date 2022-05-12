@@ -1,10 +1,10 @@
-# Desafio de Projeto sobre Git/Github da DIO
+# Desafio de Projeto sobre Git/Github da DIO :thinking:
 Desafio criado para o Desafio de Projeto
 
 ## Proposta do Desafio
 Reforçar o seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
 
-### Minhas anotações ao logo do curso
+### Minhas anotações ao longo do curso :pencil2:
 
 ctrl + l -> Limpa o terminal 
 
@@ -71,7 +71,7 @@ git commit -m ""
 
 git push origin main 
 
-### Observação sobre o curso
+### Observação sobre o curso 📖
 Ótimo primeiro contato com o projeto e a plataforma.
 
 [Livro para aprofundamento](https://www.casadocodigo.com.br/pages/sumario-git-github)
